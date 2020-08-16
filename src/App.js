@@ -7,6 +7,7 @@ import Sidebar from './components/sidebar'
 import Timeline from './components/timeline'
 
 class App extends Component {
+
   render() {
     return (
       <div id="colorlib-page">
